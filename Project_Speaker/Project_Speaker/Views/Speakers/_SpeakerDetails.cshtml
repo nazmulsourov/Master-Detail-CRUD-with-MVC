@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Project_Speaker.Models.Speaker>
+@using PagedList
+@using PagedList.Mvc
+
+<table class="table table-bordered table-striped table-sm">
+    <thead class="table-info">
+        <tr>
+            <th></th>
+            <th>Picture</th>
+            <th>Brand</th>
+            <th>Model</th>
+            <th>Name</th>
+            <th>Realese</th>
+            <th>Purchasable</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var s in Model)
+            {
+                <tr>
+                    <td style="width:40px;text-align:center;">
+                        <button class="btn btn-sm show">Show</button>
+                        <button class="btn btn-sm hide" style="display:none">Hide</button>
+                    </td>
+                    <td style="width:50px;text-align:center">
+                        <img src="~/Images/@s.Picture" class="rounded-circle" style="width:32px;" />
+                    </td>
+                    <td>@s.Brand.BrandName</td>
+                    <td>@s.SpeakerModel.ModelName</td>
+                    <td>@s.Name</td>
+                    <td>@s.Realese.ToString("yyyy-MM-dd")</td>
+                    <td>@(s.Purchasable?"Yes":"No")</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", "Speakers", new { id = s.SpeakerId },
+                       new { @class = "btn btn-outline-success btn-sm" })
+                        <a href="@Url.Action("Delete","Speakers", new {id=s.SpeakerId})" class="btn btn-outline-danger">Delete</a>
+                    </td>
+                </tr>
+                <tr style="display:none">
+                    <td></td>
+                    <td colspan="6">
+                        <h4>Stocks</h4>
+                        <table class="table table-bordered table-sm">
+                            <thead>
+                                <tr>
+                                    <th class="bg-info">Category</th>
+                                    <th class="bg-info">Price</th>
+                                    <th class="bg-info">Quantity</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var t in s.Stocks)
+                                {
+                                    <tr>
+                                        <td class="bg-info">@t.Category</td>
+                                        <td class="bg-info">>@t.Price</td>
+                                        <td class="bg-info">>@t.Quantity</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            }
+    </tbody>
+</table>

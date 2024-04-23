@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="text-center display-4 bg-info">Speaker List</h2>
+<div class="row">
+    <div class="col">
+        <div class="d-flex justify-content-end mb-2">
+            <a href="@Url.Action("Create","Speakers")" class="btn btn-outline-info"><i class="fa fa-plus-circle"></i>Add New Speaker</a>
+        </div>
+        <div id="table-div">
+            @Html.Action("SpeakerDetails")
+        </div>
+    </div>
+</div>
+@section scripts{
+    <script src="~/Scripts/jquery-3.7.1.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        $(document).on("click", "button.show", function () {
+            var showBtn = $(this);
+            var hideBtn = showBtn.next();
+            var trSh = showBtn.closest("tr");
+            var trSt = trSh.next();
+            showBtn.hide();
+            hideBtn.show();
+            trSt.show();
+        });
+        $(document).on("click", "button.hide", function () {
+            var hideBtn = $(this);
+            var showBtn = hideBtn.prev();
+            var trSh = showBtn.closest("tr");
+            var trSt = trSh.next();
+            showBtn.show();
+            hideBtn.hide();
+            trSt.hide();
+        });
+    </script>
+}
+

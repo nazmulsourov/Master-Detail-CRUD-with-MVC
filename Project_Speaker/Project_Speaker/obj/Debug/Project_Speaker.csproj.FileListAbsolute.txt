@@ -1,0 +1,570 @@
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Project_Speaker.dll.config
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Project_Speaker.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Project_Speaker.pdb
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\csc.exe
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\csc.exe.config
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\csc.rsp
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\csi.exe
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\csi.exe.config
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\csi.rsp
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.Managed.Core.targets
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.AppContext.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Collections.Immutable.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Console.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Globalization.Calendars.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.Compression.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.FileSystem.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Net.Http.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Net.Sockets.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Reflection.Metadata.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.ValueTuple.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.XmlDocument.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.XPath.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\vbc.exe
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\vbc.exe.config
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\vbc.rsp
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\VBCSCompiler.exe
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\roslyn\VBCSCompiler.exe.config
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Antlr3.Runtime.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\EntityFramework.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\EntityFramework.SqlServer.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Core.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Cookies.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Facebook.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Google.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.OAuth.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Twitter.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Web.Infrastructure.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Newtonsoft.Json.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Owin.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\PagedList.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\PagedList.Mvc.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\System.Web.Helpers.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\System.Web.Mvc.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\System.Web.Optimization.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\System.Web.Razor.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Deployment.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Razor.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\WebGrease.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\PagedList.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\PagedList.Mvc.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\System.Web.Helpers.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\System.Web.Mvc.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\System.Web.Optimization.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\System.Web.Razor.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Deployment.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Razor.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Newtonsoft.Json.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Antlr3.Runtime.pdb
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\EntityFramework.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\EntityFramework.SqlServer.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Core.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Facebook.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Cookies.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Google.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Twitter.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.OAuth.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.AssemblyReference.cache
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.Migrations.SpeakerDB.ScriptN.resources
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.GenerateResource.cache
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.CoreCompileInputs.cache
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.CopyComplete
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.dll
+D:\idb materials\PNTL\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.pdb
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Project_Speaker.dll.config
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Project_Speaker.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Project_Speaker.pdb
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\csc.exe
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\csc.exe.config
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\csc.rsp
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\csi.exe
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\csi.exe.config
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\csi.rsp
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.AppContext.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Collections.Immutable.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Console.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Globalization.Calendars.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.Compression.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.FileSystem.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Net.Http.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Net.Sockets.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Reflection.Metadata.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.ValueTuple.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.XPath.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\vbc.exe
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\vbc.exe.config
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\vbc.rsp
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\VBCSCompiler.exe
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\roslyn\VBCSCompiler.exe.config
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Antlr3.Runtime.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\EntityFramework.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\EntityFramework.SqlServer.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Google.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Web.Infrastructure.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Newtonsoft.Json.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Owin.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\PagedList.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\PagedList.Mvc.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\System.Web.Helpers.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\System.Web.Mvc.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\System.Web.Optimization.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\System.Web.Razor.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Deployment.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Razor.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\WebGrease.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\PagedList.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\PagedList.Mvc.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\System.Web.Helpers.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\System.Web.Mvc.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\System.Web.Optimization.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\System.Web.Razor.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Deployment.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Razor.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Newtonsoft.Json.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Antlr3.Runtime.pdb
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\EntityFramework.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\EntityFramework.SqlServer.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Google.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Last Edited\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.AssemblyReference.cache
+E:\Last Edited\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.Migrations.SpeakerDB.ScriptN.resources
+E:\Last Edited\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.GenerateResource.cache
+E:\Last Edited\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.CoreCompileInputs.cache
+E:\Last Edited\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.CopyComplete
+E:\Last Edited\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.dll
+E:\Last Edited\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.pdb
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Project_Speaker.dll.config
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Project_Speaker.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Project_Speaker.pdb
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Net.Http.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Antlr3.Runtime.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\EntityFramework.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Owin.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\PagedList.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\PagedList.Mvc.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\System.Web.Helpers.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\System.Web.Mvc.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\System.Web.Optimization.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\System.Web.Razor.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Razor.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\WebGrease.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\PagedList.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\PagedList.Mvc.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\System.Web.Helpers.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\System.Web.Mvc.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\System.Web.Optimization.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\System.Web.Razor.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Razor.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Newtonsoft.Json.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Antlr3.Runtime.pdb
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\EntityFramework.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.Migrations.SpeakerDB.ScriptN.resources
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.CopyComplete
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.dll
+C:\Users\Student\Desktop\1279472\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.pdb
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Project_Speaker.dll.config
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Project_Speaker.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Project_Speaker.pdb
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\csc.exe
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\csc.exe.config
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\csc.rsp
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\csi.exe
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\csi.exe.config
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\csi.rsp
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.AppContext.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Console.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Net.Http.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\vbc.exe
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\vbc.exe.config
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\vbc.rsp
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Antlr3.Runtime.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\EntityFramework.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\EntityFramework.SqlServer.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Newtonsoft.Json.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Owin.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\PagedList.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\PagedList.Mvc.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\System.Web.Helpers.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\System.Web.Mvc.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\System.Web.Optimization.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\System.Web.Razor.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\WebGrease.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\PagedList.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\PagedList.Mvc.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\System.Web.Helpers.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\System.Web.Mvc.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\System.Web.Optimization.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\System.Web.Razor.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Newtonsoft.Json.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Antlr3.Runtime.pdb
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\EntityFramework.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\EntityFramework.SqlServer.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.AssemblyReference.cache
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.Migrations.SpeakerDB.ScriptN.resources
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.GenerateResource.cache
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.CoreCompileInputs.cache
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.CopyComplete
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.dll
+C:\Users\Sourov\Downloads\1279472\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.pdb
+G:\Project_Speaker\Project_Speaker\bin\Project_Speaker.dll.config
+G:\Project_Speaker\Project_Speaker\bin\Project_Speaker.dll
+G:\Project_Speaker\Project_Speaker\bin\Project_Speaker.pdb
+G:\Project_Speaker\Project_Speaker\bin\roslyn\csc.exe
+G:\Project_Speaker\Project_Speaker\bin\roslyn\csc.exe.config
+G:\Project_Speaker\Project_Speaker\bin\roslyn\csc.rsp
+G:\Project_Speaker\Project_Speaker\bin\roslyn\csi.exe
+G:\Project_Speaker\Project_Speaker\bin\roslyn\csi.exe.config
+G:\Project_Speaker\Project_Speaker\bin\roslyn\csi.rsp
+G:\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Project_Speaker\Project_Speaker\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.AppContext.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Collections.Immutable.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Console.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Globalization.Calendars.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.Compression.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.FileSystem.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Net.Http.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Net.Sockets.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Reflection.Metadata.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.ValueTuple.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.XPath.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Project_Speaker\Project_Speaker\bin\roslyn\vbc.exe
+G:\Project_Speaker\Project_Speaker\bin\roslyn\vbc.exe.config
+G:\Project_Speaker\Project_Speaker\bin\roslyn\vbc.rsp
+G:\Project_Speaker\Project_Speaker\bin\roslyn\VBCSCompiler.exe
+G:\Project_Speaker\Project_Speaker\bin\roslyn\VBCSCompiler.exe.config
+G:\Project_Speaker\Project_Speaker\bin\Antlr3.Runtime.dll
+G:\Project_Speaker\Project_Speaker\bin\EntityFramework.dll
+G:\Project_Speaker\Project_Speaker\bin\EntityFramework.SqlServer.dll
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.dll
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.dll
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Google.dll
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Web.Infrastructure.dll
+G:\Project_Speaker\Project_Speaker\bin\Newtonsoft.Json.dll
+G:\Project_Speaker\Project_Speaker\bin\Owin.dll
+G:\Project_Speaker\Project_Speaker\bin\PagedList.dll
+G:\Project_Speaker\Project_Speaker\bin\PagedList.Mvc.dll
+G:\Project_Speaker\Project_Speaker\bin\System.Web.Helpers.dll
+G:\Project_Speaker\Project_Speaker\bin\System.Web.Mvc.dll
+G:\Project_Speaker\Project_Speaker\bin\System.Web.Optimization.dll
+G:\Project_Speaker\Project_Speaker\bin\System.Web.Razor.dll
+G:\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Deployment.dll
+G:\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.dll
+G:\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Razor.dll
+G:\Project_Speaker\Project_Speaker\bin\WebGrease.dll
+G:\Project_Speaker\Project_Speaker\bin\PagedList.xml
+G:\Project_Speaker\Project_Speaker\bin\PagedList.Mvc.xml
+G:\Project_Speaker\Project_Speaker\bin\System.Web.Helpers.xml
+G:\Project_Speaker\Project_Speaker\bin\System.Web.Mvc.xml
+G:\Project_Speaker\Project_Speaker\bin\System.Web.Optimization.xml
+G:\Project_Speaker\Project_Speaker\bin\System.Web.Razor.xml
+G:\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.xml
+G:\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Deployment.xml
+G:\Project_Speaker\Project_Speaker\bin\System.Web.WebPages.Razor.xml
+G:\Project_Speaker\Project_Speaker\bin\Newtonsoft.Json.xml
+G:\Project_Speaker\Project_Speaker\bin\Antlr3.Runtime.pdb
+G:\Project_Speaker\Project_Speaker\bin\EntityFramework.xml
+G:\Project_Speaker\Project_Speaker\bin\EntityFramework.SqlServer.xml
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.xml
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.xml
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Google.xml
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Project_Speaker\Project_Speaker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.AssemblyReference.cache
+G:\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.Migrations.SpeakerDB.ScriptN.resources
+G:\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.GenerateResource.cache
+G:\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.CoreCompileInputs.cache
+G:\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.csproj.CopyComplete
+G:\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.dll
+G:\Project_Speaker\Project_Speaker\obj\Debug\Project_Speaker.pdb
